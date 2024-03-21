@@ -70,7 +70,11 @@ There are defaults, thus the model is trained as
 ```bash
 python Main.py TrainModel --Epochs 5 --BS 128
 ```
+The process generates a JSON file resuming the training.
 
+## Test Models
+
+Similarly to the previous script, query samples can be tested as follows:
 
 
 
