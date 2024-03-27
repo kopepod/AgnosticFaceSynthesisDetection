@@ -1,6 +1,6 @@
 # AgnosticFaceSynthesisDetection
 
-<img src="https://github.com/kopepod/AgnosticFaceSynthesisDetection/blob/main/FIGS/Pipeline.png" width="1200" height="240" />
+<img src="https://github.com/kopepod/AgnosticFaceSynthesisDetection/blob/main/FIGS/Pipeline.png" width="1200" height="200" />
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ifrd_-ogXG6KM8Lb3w72GXclZjXB9dvz)
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2401.04241)
