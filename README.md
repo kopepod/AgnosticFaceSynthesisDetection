@@ -2,6 +2,9 @@
 
 <img src="https://github.com/kopepod/AgnosticFaceSynthesisDetection/blob/main/FIGS/Pipeline.png" width="1200" height="240" />
 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ifrd_-ogXG6KM8Lb3w72GXclZjXB9dvz)
+
+
 This is the implementation of the paper entitled _Data-Agnostic Face Image Synthesis Detection Using Bayesian CNNs_ this repository is divided as follows:
 
 1. Create Environment
