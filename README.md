@@ -1,6 +1,6 @@
 # AgnosticFaceSynthesisDetection
 
-This is the implementation of the paper entitled __ this repository is divided as follows:
+This is the implementation of the paper entitled _Data-Agnostic Face Image Synthesis Detection Using Bayesian CNNs_ this repository is divided as follows:
 
 1. Create Environment
 2. Dataset
