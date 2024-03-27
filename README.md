@@ -78,6 +78,10 @@ The process generates a JSON file resuming the training.
 
 Similarly to the previous script, query samples can be tested as follows:
 
+```bash
+python Main.py TestModel --GPU 0 --DatasetPath <> --OutFile FakeINSGEN.json --ModelPath ./MODELS/<>/
+```
+
 
 
 
