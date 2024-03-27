@@ -1,5 +1,7 @@
 # AgnosticFaceSynthesisDetection
 
+<img src="https://github.com/kopepod/AgnosticFaceSynthesisDetection/blob/main/FIGS/Pipeline.png" width="1300" height="380" />
+
 This is the implementation of the paper entitled _Data-Agnostic Face Image Synthesis Detection Using Bayesian CNNs_ this repository is divided as follows:
 
 1. Create Environment
