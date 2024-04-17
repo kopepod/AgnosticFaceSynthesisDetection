@@ -1,3 +1,3 @@
-- MyRepository
+- AgnosticFaceSynthesisDetection
   - README.md
-  - LICENSE
+  - LICENSE.md
