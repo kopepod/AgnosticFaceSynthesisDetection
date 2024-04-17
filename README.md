@@ -25,7 +25,7 @@ conda run -n CBN python --version
 ```
 ## Dataset
 
-It is necessary to download the [FFHQ](https://github.com/NVlabs/ffhq-dataset) dataset from the original authors. We also provide the synthetic images we genrated on  [OneDrive](https://livewarwickac-my.sharepoint.com/:f:/g/personal/u1873231_live_warwick_ac_uk/Eghl0WXMTJJJmHu4KEWIL8QBP0yyraEjpd6FYSOpqLMzAw?e=w7cvtw). Create the following structure with the Real and Synthetic Images:
+It is necessary to download the [FFHQ](https://github.com/NVlabs/ffhq-dataset) dataset from the original authors. We also provide the synthetic images we generated on  [OneDrive](https://livewarwickac-my.sharepoint.com/:f:/g/personal/u1873231_live_warwick_ac_uk/Eghl0WXMTJJJmHu4KEWIL8QBP0yyraEjpd6FYSOpqLMzAw?e=w7cvtw). Create the following structure with the Real and Synthetic Images:
 
 ```bash
 tree
