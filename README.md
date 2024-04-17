@@ -4,6 +4,7 @@
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ifrd_-ogXG6KM8Lb3w72GXclZjXB9dvz)
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2401.04241)
+[![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://livewarwickac-my.sharepoint.com/:f:/g/personal/u1873231_live_warwick_ac_uk/Eghl0WXMTJJJmHu4KEWIL8QBP0yyraEjpd6FYSOpqLMzAw?e=w7cvtw)
 
 This is the implementation of the paper entitled _Data-Agnostic Face Image Synthesis Detection Using Bayesian CNNs_ this repository is divided as follows:
 
